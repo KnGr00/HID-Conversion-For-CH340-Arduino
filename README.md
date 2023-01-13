@@ -21,8 +21,7 @@ After installing libraries you need to flash your arduino with given code. In or
 
 After Installing Arduino IDE lets continue with Arduino circuitry. Please be carefull while connecting your potentiometer to your board and complete the circuit in accordance with the figure given below.
 
-![Example Potentiometer Connection Schematic](https://user-images.githubusercontent.com/57843246/212181727-73cf8283-2da3-4b1c-a641-dd688abbad49.png)
-
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/57843246/212378744-2207f946-9ea3-4cf1-b365-bbf40625fe40.png)
 
 In order to make changes to our main Python code you can use a IDE familiar to you or you may prefer not to install anything and do the change on Notepad. Either you install an IDE or not we need to change a little part of our code but dont worry, i flashed the part you need to change.
 
