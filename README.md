@@ -37,7 +37,7 @@ In final steps of our setup, we need to change just a little variable in order t
 Here is the part you need to change
 >PORT = "5" #Enter The Port Number you noted down HERE. Example usage: "5"
 
-You just need to change **5** to your COM port number in order to make sure your system works. 
+You just need to change **5** to **your COM port number** in order to make sure your system works. 
 
 ## Final Words
 
